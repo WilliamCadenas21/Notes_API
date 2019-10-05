@@ -1,6 +1,7 @@
 {
-  "name": "Notes_API",
+  "name": "NotesAPI",
   "version": "1.0.0",
+  "repository": "https://github.com/WilliamCadenas21/Notes_API.git",
   "description": "A RESTful api of Notes",
   "main": "server.js",
   "scripts": {
@@ -13,7 +14,7 @@
     "Mongoose",
     "Notes"
   ],
-  "author": "wcadenas",
+  "author": "William Cadenas",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.3",
